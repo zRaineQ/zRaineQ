@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/zRaineQ/Protolegoren/master/1002.gif?token=GHSAT0AAAAAACILOC4533VLTSMX3XERITH6ZI3COQQ)]
+[![MasterHead]([https://raw.githubusercontent.com/zRaineQ/Protolegoren/master/1002.gif?token=GHSAT0AAAAAACILOC4533VLTSMX3XERITH6ZI3COQQ](https://github.com/zRaineQ/Protolegoren/blob/a2835e6d1c17a02fce0730de8bd79738ccc3fc5d/1002.gif))]
 <h1 align="center">👋 Hi, I'm zRaineQ</h1>
 <h3 align="center">A passionate developer, designer and artist.</h3>
 
