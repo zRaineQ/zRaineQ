@@ -1,16 +1,18 @@
-### Hi there 👋
+[![MasterHead](https://raw.githubusercontent.com/zRaineQ/Protolegoren/master/1002.gif?token=GHSAT0AAAAAACILOC4533VLTSMX3XERITH6ZI3COQQ)]
+<h1 align="center">👋 Hi, I'm zRaineQ</h1>
+<h3 align="center">A passionate developer, designer and artist.</h3>
 
-<!--
-**zRaineQ/zRaineQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Q-Engine**
 
-Here are some ideas to get you started:
+- 🎟️ My Pronouns is **They/Them**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 My biggest project is **Sunville Paradise**
+
+- 🫧 Ask me about **Operating Systems, Computer History, Design.**
+
+- 🎨 I use **Roblox Studio, Blender, Paint.Net, Visual Studio, Atom**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/zraineq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zraineq" height="30" width="40" /></a>
+</p>
