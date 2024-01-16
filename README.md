@@ -2,13 +2,13 @@
 <h1 align="center">👋 Hi, I'm zRaineQ</h1>
 <h3 align="center">A passionate developer, designer and artist.</h3>
 
-- 🔭 I’m currently working on **Q-Engine**
+- 🔭 I worked on **Q-Engine**, which was supposed to be a plugin for Roblox Studio.
 
 - 🎟️ My Pronouns is **They/Them**
 
-- 💻 My biggest project is **Sunville Paradise**
+- 💻 My biggest project is **Sunville Paradise** which got **cancelled**.
 
-- 🫧 Ask me about **Operating Systems, Computer History, Design.**
+- ❤ Ask me about **Operating Systems, Computer History, Design.**
 
 - 🎨 I use **Roblox Studio, Blender, Paint.Net, Visual Studio, Atom**
 
