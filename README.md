@@ -4,9 +4,9 @@
 
 - 🔭 I worked on **Q-Engine**, which was supposed to be a plugin for Roblox Studio.
 
-- 🎟️ My Pronouns is **They/Them**
+- 🎟️ My Pronouns are **They/Them**
 
-- 💻 My biggest project is **Sunville Paradise** which got **cancelled**.
+- 💻 My biggest project was **Sunville Paradise** which got **cancelled**.
 
 - ❤ Ask me about **Operating Systems, Computer History, Design.**
 
@@ -14,5 +14,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/zraineq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zraineq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/qraindrop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zraineq" height="30" width="40" /></a>
 </p>
